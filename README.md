@@ -23,7 +23,7 @@
 
 I’m a Data & Business Intelligence Analyst with 3+ years of experience designing ETL pipelines, developing executive dashboards, and solving analytical problems across tech and operations.
 
-🔹 Proficient in SQL, Python, Tableau, and Power BI  
+🔹 Proficient in SQL, Python, R, Tableau, and Power BI  
 🔹 Experienced with Snowflake, Oracle, Apache Hop, and SSIS  
 🔹 Passionate about transforming noisy data into meaningful visual stories  
 
