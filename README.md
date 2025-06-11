@@ -51,6 +51,7 @@ I’m a Data & Business Intelligence Analyst with 3+ years of experience designi
 
 Exploratory analysis and risk modeling** on LendingClub data from 2007–2015. Built Random Forest and XGBoost classifiers to predict loan defaulters with 90% accuracy. Focused on class imbalance handling and business insights.
 Tools & Skills: Python, Pandas, NumPy, Seaborn, Machine Learning(XGBoost, Random Forest), Jupyter Notebook
+
 ---
 
 ### 📉 FRED Economic Trend Forecast
@@ -60,6 +61,7 @@ Tools & Skills: Python, Pandas, NumPy, Seaborn, Machine Learning(XGBoost, Random
 
 Analyzed S&P 500, unemployment, and labor force data using time-series forecasting (Prophet). Provided visual insights into macroeconomic trends for long-term strategy analysis.
 Tools & Skills: Python, Pandas, NumPy, Seaborn, Machine Learning(Prophet), Jupyter Notebook
+
 ---
 
 ### 🧪 Lee Hower A/B Testing Analysis
@@ -69,6 +71,7 @@ Tools & Skills: Python, Pandas, NumPy, Seaborn, Machine Learning(Prophet), Jupyt
 
 Calculated **Incremental ROI** from display advertising campaigns using R. Measured Time-On-Task (TOT), Intent-To-Treat (ITT), and uplift metrics with tidy visualizations.
 Tools & Skills: R Programming, A/B Test Analysis, TOT & ITT Analysis, ggplot, R Studio
+
 ---
 
 ### 🏬 Retail Cloud Data Warehouse & ETL Pipeline
@@ -88,6 +91,7 @@ Tools & Skills: Apache HOP, Oracle Data Warehouse, SQL, Excel
 
 Web scraper built in Python to extract user reviews for NLP sentiment analysis. Preprocessed, tokenized, and visualized review trends for retail insights.
 Tools & Skills: Python, Selenium, VS Code
+
 ---
 
 ### 📱 Playstore App Recommendation
