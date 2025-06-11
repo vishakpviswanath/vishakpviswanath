@@ -44,14 +44,6 @@ I’m a Data & Business Intelligence Analyst with 3+ years of experience designi
 
 ## Featured Projects
 
-### 🔍 Loan Default EDA
-[🔗 View Project](https://github.com/vishakpviswanath/Loan-Default-EDA)
-
-
-Exploratory analysis and risk modeling** on LendingClub data from 2007–2015. Built Random Forest and XGBoost classifiers to predict loan defaulters with 90% accuracy. Focused on class imbalance handling and business insights.
-Tools & Skills: Python, Pandas, NumPy, Seaborn, Machine Learning(XGBoost, Random Forest), Jupyter Notebook
-
----
 
 ### 📉 FRED Economic Trend Forecast
 [🔗 View Project](https://github.com/vishakpviswanath/FRED-Data)
@@ -80,6 +72,15 @@ Tools & Skills: R Programming, A/B Test Analysis, TOT & ITT Analysis, ggplot, R 
 
 Designed an **end-to-end ETL pipeline** using Apache Hop to ingest and transform retail data into a star schema model in Oracle Cloud. Enabled automated reporting through Power BI.
 Tools & Skills: Apache HOP, Oracle Data Warehouse, SQL, Excel
+
+---
+
+### 🔍 Loan Default EDA
+[🔗 View Project](https://github.com/vishakpviswanath/Loan-Default-EDA)
+
+
+Exploratory analysis and risk modeling** on LendingClub data from 2007–2015. Built Random Forest and XGBoost classifiers to predict loan defaulters with 90% accuracy. Focused on class imbalance handling and business insights.
+Tools & Skills: Python, Pandas, NumPy, Seaborn, Machine Learning(XGBoost, Random Forest), Jupyter Notebook
 
 ---
 
