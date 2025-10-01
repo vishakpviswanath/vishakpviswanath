@@ -21,7 +21,7 @@
 
 ## About Me
 
-I’m a Data & Business Intelligence Analyst with 3+ years of experience designing ETL pipelines, developing executive dashboards, and solving analytical problems across tech and operations.
+I’m a Data & Business Intelligence Analyst with 4+ years of experience designing ETL pipelines, developing executive dashboards, and solving analytical problems across tech and operations.
 
 🔹 Proficient in SQL, Python, R, Tableau, and Power BI  
 🔹 Experienced with Snowflake, Oracle, Apache Hop, and SSIS  
@@ -34,8 +34,8 @@ I’m a Data & Business Intelligence Analyst with 3+ years of experience designi
 | 💡 Area             | 🔧 Tools & Technologies |
 |--------------------|-------------------------|
 | Languages          | `SQL`, `Python`, `R`, `C#` |
-| Data Platforms     | `Snowflake`, `Oracle DB`, `Databricks`, `MongoDB` |
-| ETL & Modeling     | `Apache HOP`, `SSIS`, `SQL Server`, `SCD`, `Star Schema` |
+| Data Platforms     | `Snowflake`, `Oracle DB`, `Databricks`, `MongoDB`, `Redshift` |
+| ETL & Modeling     | `Apache HOP`, `SSIS`, `SQL Server`, `SCD`, `Star Schema`, `DBT` |
 | Visualization      | `Tableau`, `Power BI`, `Excel (Power Query)` |
 | Analytics & ML     | `Pandas`, `NumPy`, `Scikit-learn`, `Prophet`, `XGBoost` |
 | Tools              | `Git`, `Jupyter`, `ServiceNow`, `JIRA` |
